@@ -1,0 +1,9 @@
+npm install react-router-dom localforage match-sorter sort-by
+npm install react-icons --save
+npm add sass
+npm install
+
+npm install ityped - (animation text)
+
+
+npm i react@latest react-dom@latest
